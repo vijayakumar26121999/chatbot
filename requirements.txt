@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-groq
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+transformers
+beautifulsoup4
+requests
+tqdm
+numpy
+pydantic
